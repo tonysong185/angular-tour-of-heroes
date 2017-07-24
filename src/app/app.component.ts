@@ -1,5 +1,7 @@
 import { Component } from '@angular/core';
 
+import { HeroDetailComponent } from './hero-detail.component';
+
 export class Hero {
   id: number;
   name: string;
